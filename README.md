@@ -33,7 +33,8 @@ This project features an interactive dashboard built using Tableau, which provid
 2. Open the Tableau workbook (.twbx) file in Tableau to view and interact with the dashboard.
 ## Screenshots
 
-![App Screenshot](https://paste.pics/RMQXQ)
+![British Airways Review Dashboard](https://github.com/user-attachments/assets/53f12b86-9915-40ed-b547-3c89215bf68a)
+
 
 
 ## Conclusion
